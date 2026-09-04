@@ -1,0 +1,2 @@
+# AMD_DLSS5
+AMD使用DLSS5
