@@ -1,0 +1,10 @@
+链接：https://pan.quark.cn/s/813f1a4c4d7c?pwd=czky
+提取码：czky
+
+Expression: EXCEPTION_ACCESS_VIOLATION (0xC0000005)
+Message: The thread attempted to read inaccessible data at 0x1C8.
+File: <Unknown>(0)
+进入文件管理器，找到AppData(可以问ai在哪找，通常在此电脑＞用户名 下面，不过默认是被隐藏的，需要点击管理器上方的查看＞显示＞隐藏的内容）
+进入目录AppData＞Local＞CD Project Red＞Cyberpunk 2077
+找到文件：UserSettings.json，删除然后重进游戏即可
+这个崩溃最可能发生在你修改游戏画面设置后，我用的amd显卡，疑似是光追或者其他原因导致崩溃，进游戏后建议检查下自己的画面设置，可以找找相关画面调试攻略之类的
